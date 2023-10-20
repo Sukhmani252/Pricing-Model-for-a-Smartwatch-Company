@@ -21,6 +21,9 @@ To build a spreadsheet model to find out the selling price of one smartwatch so 
 - Earn at least a 2% profit margin.
 
 ## Approach :
+- The relationship between order quantity and the price of the OLED panels is calculated.
+-![image](https://github.com/Sukhmani252/Pricing-Model-for-a-Smartwatch-Company/assets/74128870/ab945a63-c78a-4310-a3cd-953ab805f98d)
+
 
 
 ## Result :
