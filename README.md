@@ -27,7 +27,7 @@ To build a spreadsheet model to find out the selling price of one smartwatch so 
 - Panel Cost/Unit, Total Cost/Unit,	Warehouse Storage Days,	Total Cost, Total Revenue, Profit, and Profit Margin are calculated for different order quantities.
 
 ## Result :
-- From the model, it was obtained that the price should be **Rs. 7525** which is the most optimal price to gain a market share of 5% by selling 1810 watches per day.
+- From the model, it was obtained that the price should be **Rs. 7525** which is the most optimal price to gain a market share of 5% by selling **1810** watches per day.
   
 ![image](https://github.com/Sukhmani252/Pricing-Model-for-a-Smartwatch-Company/assets/74128870/0dbd7306-e6ba-4939-827a-55f1ba8dc576)
 - The demand for watches is also calculated using the line equation *y = mx + c*, and for the obtained selling price **Rs. 7525**, demand comes out to be **1810**.
