@@ -21,15 +21,16 @@ To build a spreadsheet model to find out the selling price of one smartwatch so 
 - Earn at least a 2% profit margin.
 
 ## Approach :
-- The relationship between order quantity and the price of the OLED panels is calculated by using the line equation *y = mx + c".
+- The relationship between order quantity and the price of the OLED panels is calculated by using the line equation *y = mx + c*.
 ![image](https://github.com/Sukhmani252/Pricing-Model-for-a-Smartwatch-Company/assets/74128870/ab945a63-c78a-4310-a3cd-953ab805f98d)
 - Three different equations are generated to find the cost depending on the order quantity.
 - Panel Cost/Unit, Total Cost/Unit,	Warehouse Storage Days,	Total Cost, Total Revenue, Profit, and Profit Margin are calculated for different order quantities.
 
 ## Result :
-- From the model, it was obtained that the price should be Rs. 7525 which is the most optimal price to gain a market share of 5% by selling 1810 watches per day.
+- From the model, it was obtained that the price should be **Rs. 7525** which is the most optimal price to gain a market share of 5% by selling 1810 watches per day.
+  
 ![image](https://github.com/Sukhmani252/Pricing-Model-for-a-Smartwatch-Company/assets/74128870/0dbd7306-e6ba-4939-827a-55f1ba8dc576)
-- The demand for watches is also calculated using the line equation *y = mx + c*, and for the obtained selling price Rs. 7525, demand comes out to be 1810.
-- Hence, NuWave should start by selling their watches at a price of *Rs. 7525* which will help them gain a market share of 5% and 2% profit margin as well with the increase in order quantity.
+- The demand for watches is also calculated using the line equation *y = mx + c*, and for the obtained selling price **Rs. 7525**, demand comes out to be **1810**.
+- Hence, NuWave should start by selling their watches at a price of **Rs. 7525** which will help them gain a market share of 5% and 2% profit margin as well with the increase in order quantity.
 
-Model : https://docs.google.com/spreadsheets/d/1CN3KhD1xvxcdPHJn-EnqrKdBhmmfaOxd/edit?usp=sharing&ouid=108310215373032149971&rtpof=true&sd=true
+Model: https://docs.google.com/spreadsheets/d/1CN3KhD1xvxcdPHJn-EnqrKdBhmmfaOxd/edit?usp=sharing&ouid=108310215373032149971&rtpof=true&sd=true
