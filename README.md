@@ -22,6 +22,7 @@ To build a spreadsheet model to find out the selling price of one smartwatch so 
 
 ## Approach :
 - The relationship between order quantity and the price of the OLED panels is calculated by using the line equation *y = mx + c*.
+  
 ![image](https://github.com/Sukhmani252/Pricing-Model-for-a-Smartwatch-Company/assets/74128870/ab945a63-c78a-4310-a3cd-953ab805f98d)
 - Three different equations are generated to find the cost depending on the order quantity.
 - Panel Cost/Unit, Total Cost/Unit,	Warehouse Storage Days,	Total Cost, Total Revenue, Profit, and Profit Margin are calculated for different order quantities.
