@@ -19,6 +19,7 @@ To build a spreadsheet model to find out the selling price of one smartwatch so 
 
 - NuWave can gain a 5% market share.
 - Earn at least a 2% profit margin.
+- Warehouse should not be underutilized.
 
 ## Approach :
 - The relationship between order quantity and the price of the OLED panels is calculated by using the line equation *y = mx + c*.
@@ -33,5 +34,6 @@ To build a spreadsheet model to find out the selling price of one smartwatch so 
 ![image](https://github.com/Sukhmani252/Pricing-Model-for-a-Smartwatch-Company/assets/74128870/0dbd7306-e6ba-4939-827a-55f1ba8dc576)
 - The demand for watches is also calculated using the line equation *y = mx + c*, and for the obtained selling price **Rs. 7525**, demand comes out to be **1810**.
 - Hence, NuWave should start by selling their watches at a price of **Rs. 7525** which will help them gain a market share of 5% and 2% profit margin as well with the increase in order quantity.
+- And,
 
 Model: https://docs.google.com/spreadsheets/d/1CN3KhD1xvxcdPHJn-EnqrKdBhmmfaOxd/edit?usp=sharing&ouid=108310215373032149971&rtpof=true&sd=true
